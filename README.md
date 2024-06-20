@@ -2,9 +2,7 @@
   <h2><i>ConsisEval:</i> A Hard-to-Easy Consistency Evaluation<br>Benchmark for Large Language Models</h2> 
 </div>
 
-<p align="center">
-| <a href="https://arxiv.org/abs/2406.12809"><b>Paper</b></a> | <b>Leaderboard</b> |
-</p>
+
 
 <!-- This is the repo for our paper: Can Large Language Models Always Solve Easy Problems if They Can Solve Harder Ones? -->
 
